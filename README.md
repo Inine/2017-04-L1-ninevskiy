@@ -1,7 +1,9 @@
 # 2017-04-L1-ninevskiy
-Otus "Java Developer" homework week #1
+Группа 2017-04.3
 
-#Name
-Ivan Ninevskiy/Иван Ниневский
-#Email
+Автор
+
+Ivan Ninevskiy(Иван Ниневский)
+
 iogahn@gmail.com
+
