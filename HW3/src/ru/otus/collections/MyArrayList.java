@@ -9,8 +9,6 @@ public class MyArrayList<T> implements List {
     private int maxSize;
     private int currentSize;
     private T[] data;
-    int a[] = new int[10];
-
 
     public MyArrayList(){
         maxSize = 10;
@@ -52,7 +50,7 @@ public class MyArrayList<T> implements List {
 
     @Override
     public Iterator iterator() {
-        throw new UnsupportedOperationException();
+        return new MyIterator(this);
     }
 
     @Override
